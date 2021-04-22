@@ -1,0 +1,53 @@
+.card {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  position: relative;
+  width: 30rem;
+  background-color: #ffffff47;
+  color: white;
+}
+
+.imgDetails {
+  width: 100%;
+  height: 25rem;
+}
+
+.detailCard {
+  text-align: center;
+}
+
+.detailCardTitle {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  background-color: #f0ad4e;
+  color: black;
+}
+
+.ulClass {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-right: 2.5rem;
+}
+
+.liClass {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1.5rem;
+  margin-right: 2.5rem;
+}
+
+ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.spanDetail {
+  font-size: 1.8rem;
+  margin-left: 0.3rem;
+  padding: 0 1rem 0 1rem;
+}
